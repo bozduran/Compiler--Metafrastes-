@@ -1,0 +1,48 @@
+program example3
+declare tt,sstt,pppp,a,b,c,d,e,x,y,px,py,temp,asdfgh,janna,cx,abc,t,sst,fords,ds,xt,za,qoufheruoi,xrt,k,po,kl,z,rengar,op,as,lk,xqwerqwr,grt,zigss,h,sad;
+loop
+print asdfgh;
+input tt;
+if (not [a<c and b<d]) then
+rengar := zigss + janna;
+exit
+endif;
+if (a=e) then
+c:=c+e
+else
+loop
+if (not [a<=d+12+cx+abc]) then
+exit
+endif;
+print zigss;
+a:=a+b;
+dowhile
+tt:=23435+t;
+t:=h+12
+enddowhile(t<900);
+forcase
+whene (sst<123) : op:=ds+fords
+whene (sst<123) : op:=ds+ds
+whene (xt<23) : as:=sad+213
+whene (za<32) : lk:=ds+32
+default: xqwerqwr:=grt+qoufheruoi enddefault
+endforcase;
+endloop
+endif;
+endloop;
+temp:=px;
+print xrt;
+x:=1;
+y:=2;
+while ([k<=2 and po<32])
+while (kl<=2)
+po:=ds+23
+endwhile ;
+x:=10000
+endwhile;
+incase
+whene (sstt<123) : op:=ds+ds
+whene (pppp<123) : op:=ds+ds
+endincase
+
+endprogram

@@ -1,0 +1,63 @@
+program EXAMPLE2
+    declare x,y,z,w,e,r,t,u,i,o,p;
+    function q4(in prs)
+        declare tr;
+        if(x<3) then
+            y:=3333
+        else
+            y:=43;
+            return tr
+        endif
+    endfunction   
+
+    function q1(in x, inout z, inout v,inout s ,inout sd,inandout a)
+        declare w1;
+
+        function q2(inout z)
+            declare q,b,fd,n,sssssssssssssss;
+
+            function q3(inout a, inout b)
+                declare k,gdf,h,jdh,jfghj,fgjh,area;
+                    if ([x>2 or k>4]) then 
+                    v:=z+a+b+2;
+                    area :=  r * r;
+                    a:=a
+                    else
+                    a:=v/b
+                    endif ;
+                    k:=x;
+                    return a
+            endfunction
+            q:=y+w;
+            input sssssssssssssss;
+            z:=q*x;
+            n:= q2(inout q);
+            v:= a +q3(inout q, inout v);
+            v:= q3(inout q, inout v);
+            v:=pro(in a);
+            return v
+        endfunction
+        if ([x<y and x < 23 and 43>y]) then
+            w:=x+y
+        else
+            w:=x*y
+        endif;
+        z:=z + q4(in z);
+        return x
+    endfunction
+    function pro(in a)
+        declare pi,asd,fdas,gasd;
+        x:=a;
+        return a
+    endfunction    
+
+
+    x:=1+x;
+    y:=2;
+    x:=23+x;
+    i:=54;
+    p:=87;
+    u:=890;
+    z:= q1(in x, inout x, inout i,inout x ,inout p,inandout u)
+    
+endprogram

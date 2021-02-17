@@ -1,0 +1,33 @@
+program example1 /*This is a comment */ /* This is the second */  /* This is the third */ //This is the fourth
+    declare d,i,g,f,xt,za,as,sad;
+    function two (in g)
+        function three (in g, inout x, in f)
+            declare k, j,t,e,lk,ds;
+                k:=g*e+23+t*9;
+                j:=g;
+            dowhile
+                    if (k>i) then /*This is a comment */ /* This is the second */  /* This is the third */ //This is the fourth
+                    k:=k-1
+            endif;
+                    j:=j*k;
+                    k:=k+g
+                enddowhile (k<1);
+                f:=j;
+                return f+1;
+                incase
+                whene (xt<23) : as:=sad+213
+                whene (za<32) : lk:=ds+32
+                endincase
+            endfunction
+            i:=three (in i+2, inout d, in f);
+            return i
+    endfunction
+        
+        function one (in g)
+            g:=two(in g);
+            return g
+        endfunction
+    i:=5;
+    g:=1;
+    g:=one(in g)
+endprogram

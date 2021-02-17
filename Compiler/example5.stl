@@ -1,0 +1,32 @@
+program EXAMPLE2
+     declare x,y,i,panama;
+     function  quartus(in panama,inout p1,in p2,in p3,in p4)
+	     panama:=345+panama+p1+p2+p3+p4;
+	     panama:=panama + p1;
+	     print panama;
+	     panama:=pra(in panama);
+	     print panama;
+	     return panama
+     endfunction
+
+     function pra(in panama)
+     	     panama:=5+panama;
+	     return panama
+     endfunction
+     dowhile
+       panama:=panama+1;
+       y:=1+panama
+     enddowhile(panama<90);
+     x:=312+1;
+     y:=54;
+     if (x > 300) then
+	 	i := 10
+     else
+         i :=3
+     endif;
+     x:=y+i;
+     x:=x*x*x+y;
+     x:=89;
+     y:= quartus(in x,inout i,in 200,in 3000,in 5000);
+     print y
+endprogram
